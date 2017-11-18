@@ -1,4 +1,4 @@
-#Responding to rebuttals
+# Responding to rebuttals
 
 * *On the day you receive your reviews* (and no later), summarize the reviews in a google doc.
 * *Then, in a timely fashion...* Regardless of score, take all the easy changes and make them.
@@ -12,7 +12,7 @@ Ask Chinmay for access to a repository of past reviews and rebuttals to see how 
 * For each high level point, mention each subpoint you fixed, changed, or want to clarify. *Summarize your changes*
 * If they ask for specific numbers, include the edited text in the paper
 
-##Rules of the game
+## Rules of the game
 
 
 * Chinmay must see your rebuttal before you send it out (meeting is optional)
