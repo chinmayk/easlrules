@@ -21,6 +21,8 @@ Crafting a good rebuttal can make a difference, but it requires multiple drafts.
 * For each high level concern, mention what you fixed, changed, or want to clarify. *Summarize your changes*
 * If they ask for specific numbers, respond by quoting from your updated text in the paper. 
 
+*Make sure you are aware of word limits for your conference!*
+
 ## Rules of the game
 If I am a co-author: 
 * I must see your rebuttal before you send it out. Because I might have a little more distance with the work, I can help you craft a message that the audience understands.
