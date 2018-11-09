@@ -26,4 +26,4 @@ Crafting a good rebuttal can make a difference, but it requires multiple drafts.
 ## Rules of the game
 If I am a co-author: 
 * I must see your rebuttal before you send it out. Because I might have a little more distance with the work, I can help you craft a message that the audience understands.
-* Unless specified otherwise, you must fix issues we discover before you send it out. Otherwise, you're stealing cycles from your labmate who put in their best effort.
+* You must fix issues we discover before you send it out. If fixes are optional, I'll tell you specifically. Otherwise, assume they are necessary before you send it out!
